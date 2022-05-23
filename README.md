@@ -1,2 +1,2 @@
 # archicut
-https://mariaabba.github.io/archicut/
+https://mariaabba.github.io/archicut/Architecture
