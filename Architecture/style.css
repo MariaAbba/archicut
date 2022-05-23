@@ -1,0 +1,30 @@
+body{
+    background-image: url(img/background\ \(4\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+table, tr, td, th{
+    border:1px solid black;
+    box-shadow:2px 1px 5px #333333;
+    margin:auto;
+}
+h1{
+    color: #fff;;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-shadow: 2px 3px 10px rgb(97, 59, 9);
+    margin:auto;
+}
+ul, li{
+    display:inline-block;
+    word-spacing: 50px;
+    font-size:25px;
+    color:white;
+}
+
+iframe{
+    height:100%;
+    width:100%;
+}
